@@ -1,0 +1,18 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js"
+  },
+  "keywords": [
+    "todo",
+    "git",
+    "github"
+  
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "git"
+}
